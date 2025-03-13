@@ -1,0 +1,12 @@
+#Pinheiro  - Implemente um programa que desenhe um "pinheiro" na tela, similar ao abaixo.
+print("       ★      ")
+print("      ºXº      ")
+print("     º@xXº     ")
+print("    ºXxXx@º    ")
+print("  ºXxXx@XxXº   ")
+print("  ºX@XXXXX!xXº  ")
+print(" ºXXxX!xXXXx@º ")
+print("ºX!xXX@XxX!xXX°")
+print("       XX      ")
+print("       XX      ")
+print("     XXXXXX    ")
